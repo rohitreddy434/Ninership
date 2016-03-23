@@ -1,0 +1,9 @@
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (3, 2, 'I');
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (4, 2, 'N');
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (1, 3, 'X');
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (5, 3, 'X');
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (1, 4, 'I');
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (1, 5, 'I');
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (2, 5, 'X');
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (2, 6, 'N');
+INSERT INTO `student_skill` (`skill_id`, `student_id`, `skill_level`) VALUES (3, 6, 'I');

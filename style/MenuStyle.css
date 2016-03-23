@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+#menu {
+    margin:15px auto;
+    background-color: #E49204;
+    border-radius: 8px;
+}
+
+#menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*height: auto;
+    padding: 7px 0px;
+    margin: 0px;*/
+}
+
+#menu li.left{ 
+	float: left;
+	display: inline; 
+	padding: 0px 70px; 
+}
+
+
+#menu li.right{ 
+	float: right;
+	display: inline; 
+	padding: 0px 70px; 
+}
